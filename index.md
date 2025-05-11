@@ -3,10 +3,8 @@ title: Landing page
 site:
   hide_outline: false
   hide_toc: false
-  hide_title_block: false
+  hide_title_block: true
 ---
-
-+++ { "kind": "justified"}
 
 # Blog
 
