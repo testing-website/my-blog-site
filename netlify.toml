@@ -8,4 +8,4 @@
   from = "/*"
   to = "https://testing-splat.netlify.app/blog/:splat"
   status = 200
-  force = false
+  force = true
