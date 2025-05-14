@@ -5,7 +5,7 @@
   publish = "_build/html"
 
 [[redirects]]
-  from = "/*"
+  from = "https://my-blog-splat.netlify.app/*"
   to = "https://testing-splat.netlify.app/blog/:splat"
   status = 301
   force = true
