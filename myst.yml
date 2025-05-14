@@ -16,7 +16,5 @@ site:
   #   favicon: favicon.ico
   #   logo: site_logo.png
   nav:
-    - title: Docs
-      url: https://testing-splat.netlify.app/docs/
     - title: Blog
       url: https://testing-splat.netlify.app/blog/

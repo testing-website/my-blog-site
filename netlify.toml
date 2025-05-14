@@ -10,8 +10,8 @@
 #  status = 301
 #  force = true
 
-[[redirects]]
-from = "/*"
-to = "https://testing-splat.netlify.app/blog/:splat"
-status = 301
-force = true
+#[[redirects]]
+#from = "/*"
+#to = "https://testing-splat.netlify.app/blog/:splat"
+#status = 301
+#force = true
