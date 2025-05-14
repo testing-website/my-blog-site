@@ -4,8 +4,8 @@
   environment = { PYTHON_VERSION = "3.13" }
   publish = "_build/html"
 
-[[redirects]]
-  from = "https://my-blog-splat.netlify.app/*"
-  to = "https://testing-splat.netlify.app/blog/:splat"
-  status = 301
-  force = true
+#[[redirects]]
+#  from = "https://my-blog-splat.netlify.app/*"
+#  to = "https://testing-splat.netlify.app/blog/:splat"
+#  status = 301
+#  force = true
